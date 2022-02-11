@@ -2,10 +2,7 @@ AUTHOR = 'Stéphane Manet'
 SITENAME = 'Sciences & Conscience'
 SITEURL = 'https://stephma.net/sec'
 
-# Pour github
-DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
-PAGINATED_DIRECT_TEMPLATES = (('output',))
-TEMPLATE_PAGES = {'home.html': 'index.html',}
+
 
 PATH = 'content'
 
