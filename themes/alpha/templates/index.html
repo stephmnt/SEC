@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block header %}
+			<!-- Banner -->
+				<section id="banner">
+					<h2>Sciences <span>et Conscience</span></h2>
+					<p>Explorez l'esprit des sciences sur 93.1 FM</p>
+					<ul class="actions special">
+						<li><a id="buttonIntro" href="#intro" class="button primary">Découvrir</a></li>
+						<li><a id="buttonAbo" href="#abonnement" class="button">S'abonner</a></li>
+					</ul>
+				</section>
+{% endblock %}
+{% block content %}
+
+			<!-- Main -->
+				<section id="main" class="container">
+
+				{% include 'parts/intro.part.html' %}
+				{% include 'parts/features.part.html' %}
+				{% include 'parts/podcasts.part.html' %}
+				{% include 'parts/abonner.part.html' %}
+				{% include 'parts/newsletter.part.html' %}
+
+				</section>
+{% endblock %}
+{% block scripts %}
+<script>
+	// $('buttonIntro').scrollTo('#intro',500); // Scroll screen to target element
+	$("#buttonIntro").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#intro").offset().top
+    }, 1000);
+});
+	$("#buttonAbo").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#cta").offset().top
+    }, 1000);
+});
+</script>
+{% endblock %}

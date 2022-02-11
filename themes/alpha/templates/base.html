@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+	<head>
+		<title>{% block titre %}{{ SITENAME }}{% endblock %}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/css/main.css" />
+		<link rel="stylesheet" href="https://podcastfont.com/releases/202202011653/css/PodcastFont.css" integrity="sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY" crossorigin="anonymous" />
+
+	</head>
+	<body class="landing is-preload">
+
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+
+					<h1><a href="{{ SITEURL }}/index.html">Sciences <span>et Conscience</span></a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="{{ SITEURL }}/index.html">Accueil</a></li>
+						{% for p in pages %}
+						<li><a {% if p == page %}class="active"{% endif %} href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+						{% endfor %}
+							<li>
+								<a href="#" class="icon solid fa-angle-down">Partenaires</a>
+								<ul>
+									<li><a href="https://www.fondationdefrance.org/fr/fondation/fondation-charpak-lesprit-des-sciences" target="_blank">Fondation Charpak</a></li>
+									<li><a href="https://cause-commune.fm/" target="_blank">Cause Commune</a></li>
+									<li><a href="https://www.cafe-sciences.org/" target="_blank">Le Café des Sciences</a></li>
+								</ul>
+							</li>
+							<li><a href="#" class="button">S'abonner</a></li>
+						</ul>
+					</nav>
+				</header>
+{% block header %}
+{% endblock %}
+{% block content %}
+{% endblock %}
+
+
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						{% for name, fa, link in SOCIAL %}
+							<li><a href="{{ link }}" class="icon {{ fa }}"><span class="label">{{ name }}</span></a></li>
+						{% endfor %}
+					</ul>
+					<ul class="copyright">
+						<li><i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-nc-eu"></i> <i class="fab fa-creative-commons-sa"></i> {{ SITENAME }} 2022</li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+			<script src="/{{ THEME_STATIC_DIR }}/js/jquery.dropotron.min.js"></script> <!-- pour le submenu des partenaires -->
+			<script src="/{{ THEME_STATIC_DIR }}/js/jquery.scrollex.min.js"></script>
+			<script src="/{{ THEME_STATIC_DIR }}/js/browser.min.js"></script>
+			<script src="/{{ THEME_STATIC_DIR }}/js/breakpoints.min.js"></script>
+			<script src="/{{ THEME_STATIC_DIR }}/js/util.js"></script>
+			<script src="/{{ THEME_STATIC_DIR }}/js/main.js"></script>
+{% block scripts %}
+{% endblock %}
+	</body>
+</html>
+
+

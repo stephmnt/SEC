@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block header %}
+{% endblock %}
+{% block content %}
+			<!-- Main -->
+				<section id="main" class="container page">
+					<header>
+						<h2>{{ page.title }}</h2>
+						<p>{{ page.summary }}.</p>
+					</header>
+					<div class="box">
+
+						{{ page.content }}
+
+					</div>
+				</section>
+
+{% endblock %}
+{% block scripts %}
+{% endblock %}
