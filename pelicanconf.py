@@ -2,6 +2,11 @@ AUTHOR = 'Stéphane Manet'
 SITENAME = 'Sciences & Conscience'
 SITEURL = ''
 
+# Pour github
+DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
+PAGINATED_DIRECT_TEMPLATES = (('blog',))
+TEMPLATE_PAGES = {'home.html': 'index.html',}
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
