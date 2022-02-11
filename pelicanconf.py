@@ -1,6 +1,6 @@
 AUTHOR = 'Stéphane Manet'
 SITENAME = 'Sciences & Conscience'
-SITEURL = ''
+SITEURL = 'https://stephma.net/sec'
 
 # Pour github
 DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
