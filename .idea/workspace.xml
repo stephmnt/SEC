@@ -3,12 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="bb5be934-3a3e-4d14-bd11-95b8ef75e821" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/output/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/archives.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/authors.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/authors.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +31,6 @@
   </component>
   <component name="ProblemsViewState">
     <option name="groupByToolId" value="true" />
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="20otF5ROw3aOGvNwvgNoHzJjc6B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,7 +95,8 @@
       <workItem from="1644055863818" duration="20136000" />
       <workItem from="1644329693691" duration="1213000" />
       <workItem from="1644592181599" duration="7398000" />
-      <workItem from="1644600838707" duration="174000" />
+      <workItem from="1644600838707" duration="637000" />
+      <workItem from="1644601522426" duration="599000" />
     </task>
     <servers />
   </component>
