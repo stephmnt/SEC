@@ -31,7 +31,7 @@ SOCIAL = (('Rss', 'solid fa-rss', 'https://cause-commune.fm/feed/podcast/science
           ('Youtube', 'brands fa-youtube', 'https://twitter.com/SConscienceCC'),
           ('Discord', 'brands fa-discord', 'https://twitter.com/SConscienceCC'),
           ('Twitter', 'brands fa-twitter', 'https://twitter.com/SConscienceCC'),
-          ('Github', 'brands fa-github', '#'),)
+          ('Github', 'brands fa-github', 'https://github.com/stephmnt/sec'),)
 
 DEFAULT_PAGINATION = 10
 
