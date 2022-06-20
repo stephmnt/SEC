@@ -1,0 +1,251 @@
+Index: output/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE HTML>\n<html lang=\"fr\">\n\t<head>\n\t\t<title>Sciences & Conscience</title>\n\t\t<meta charset=\"utf-8\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\" />\n\n\t\t<!-- CSS -->\n\t\t<link rel=\"stylesheet\" href=\"https://stephma.net/sec/static/css/main.css\" />\n\t\t<link rel=\"stylesheet\" href=\"https://podcastfont.com/releases/202202011653/css/PodcastFont.css\" integrity=\"sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY\" crossorigin=\"anonymous\" />\n\n\t</head>\n\t<body class=\"landing is-preload\">\n\n\t\t<div id=\"page-wrapper\">\n\n\t\t\t<!-- Header -->\n\t\t\t\t<header id=\"header\">\n\n\t\t\t\t\t<h1><a href=\"https://stephma.net/sec/index.html\">Sciences <span>et Conscience</span></a></h1>\n\t\t\t\t\t<nav id=\"nav\">\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li><a href=\"https://stephma.net/sec/index.html\">Accueil</a></li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"icon solid fa-angle-down\">Partenaires</a>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.fondationdefrance.org/fr/fondation/fondation-charpak-lesprit-des-sciences\" target=\"_blank\">Fondation Charpak</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/\" target=\"_blank\">Cause Commune</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.cafe-sciences.org/\" target=\"_blank\">Le Café des Sciences</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">S'abonner</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</header>\n\t\t\t<!-- Banner -->\n\t\t\t\t<section id=\"banner\">\n\t\t\t\t\t<h2>Sciences <span>et Conscience</span></h2>\n\t\t\t\t\t<p>Explorez l'esprit des sciences sur 93.1 FM</p>\n\t\t\t\t\t<ul class=\"actions special\">\n\t\t\t\t\t\t<li><a id=\"buttonIntro\" href=\"#intro\" class=\"button primary\">Découvrir</a></li>\n\t\t\t\t\t\t<li><a id=\"buttonAbo\" href=\"#abonnement\" class=\"button\">S'abonner</a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</section>\n\n\t\t\t<!-- Main -->\n\t\t\t\t<section id=\"main\" class=\"container\">\n\n<section id=\"intro\" class=\"box special\">\n\t<header class=\"major\">\n\t\t<h2>Sciences et conscience, le podcast qui explore le monde des sciences\n\t\t<br />\n\t\tet leur place dans la société</h2>\n\t\t<p>À l’ère de la post-vérité, la place des sciences ne va pas de soi. Quelles relations entretiennent-elles avec le reste de la société ? Avec la démocratie, l’éducation, les pouvoirs publics, les médias, la philosophie, l’art ?…</p>\n\t\t<p>Ce sont ces questions que l’émission Sciences et Conscience porte avec des scientifiques ou des philosophes, experts de leurs domaines respectifs, et auxquelles elle tente de répondre.</p>\n\t\t<p><b>Cette émission est soutenue par la Fondation Charpak, l’esprit des Sciences.</b></p>\n\t</header>\n\t<span class=\"image featured\"><img src=\"https://stephma.net/sec/static/images/sciences-et-conscience.jpg\" alt=\"\" /></span>\n</section><section class=\"box special features\">\n\t\t\t\t\t\t\t\t<h2>Nos partenaires</h2>\n\t<div class=\"row\">\n\t\t\t<div class=\"col-4 col-12-narrower\">\n\n\t\t\t\t<section>\n\t\t\t\t\t<header>\n\t\t\t\t\t\t<h3>La Fondation Charpak</h3>\n\t\t\t\t\t\t<img width=\"100%\" src=\"https://stephma.net/sec/static/images/logo03.jpeg\" />\n\t\t\t\t\t</header>\n\t\t\t\t\t<p>La « Fondation Charpak, l'esprit des sciences », abritée par la Fondation de France, souhaite favoriser le développement de l'esprit scientifique comme l’une des valeurs essentielles de notre époque.</p>\n\t\t\t\t\t<a href=\"https://dons.fondationdefrance.org/CHARPAK/~mon-don\" class=\"button special\" target=\"_blank\">En savoir plus</a>\n\t\t\t\t</section>\n\n\t\t\t</div>\n\t\t\t<div class=\"col-4 col-12-narrower\">\n\n\t\t\t\t<section>\n\t\t\t\t\t<header>\n\t\t\t\t\t\t<h3>Cause Commune 93.1 FM</h3>\n\t\t\t\t\t\t<img width=\"100%\" src=\"https://stephma.net/sec/static/images/logo02.png\" />\n\t\t\t\t\t</header>\n\t\t\t\t\t<p>Radio associative et citoyenne, Cause Commune relaye les initiatives locales de partage des savoirs et de la culture.</p>\n\t\t\t\t\t<a href=\"http://cause-commune.fm\" class=\"button special\" target=\"_blank\">En savoir plus</a>\n\t\t\t\t</section>\n\n\t\t\t</div>\n\t\t\t<div class=\"col-4 col-12-narrower\">\n\n\t\t\t\t<section>\n\t\t\t\t\t<header>\n\t\t\t\t\t\t<h3>Le café des sciences</h3>\n\t\t\t\t\t\t<img width=\"100%\" src=\"https://stephma.net/sec/static/images/logo01.png\" />\n\t\t\t\t\t</header>\n\t\t\t\t\t<p>Le Café des sciences est une communauté qui fédère des acteurs de la médiation scientifique sur différents médias.</p>\n\t\t\t\t\t<a href=\"https://www.cafe-sciences.org\" class=\"button alt\" target=\"_blank\">En savoir plus</a>\n\t\t\t\t</section>\n\n\t\t\t</div>\n\t\t</div>\n</section><div class=\"row\">\n</div><section id=\"cta\">\n\t<span class=\"image featured\"><img src=\"https://stephma.net/sec/staticimages/pic03.jpg\" alt=\"\" /></span>\n\t<h3>Écoutez le podcast sur votre plateforme préférée !</h3>\n\t<p>Le podcast <em>Sciences et Conscience</em> est disponible sur la plupart des plateformes, le site de la radio et en flux rss. Sélectionnez votre application préférée ci-dessous ou cliquez sur \"en savoir plus\" pour plus d'options.</p>\n\t<ul class=\"icons\">\n\t\t<li><a title=\"Spotify\" href=\"\" class=\"icon\"><i class=\"pi pi-spotify\"></i></a></li>\n\t\t<li><a title=\"Deezer\" href=\"\" class=\"icon\"><i class=\"pi pi-deezer\"></i></a></li>\n\t\t<li><a title=\"Google Podcast\" href=\"\" class=\"icon\"><i class=\"pi pi-googlepodcasts\"></i></a></li>\n\t\t<li><a title=\"Amazon Music\" href=\"\" class=\"icon\"><i class=\"pi pi-amazonmusic\"></i></a></li>\n\t\t<li><a title=\"Apple Podcast\" href=\"\" class=\"icon\"><i class=\"pi pi-applepodcast\"></i></a></li>\n\t</ul>\n\t<ul class=\"actions special\">\n\t\t<li><a href=\"/pages/sabonner.html\" class=\"button alt\">En savoir plus</a></li>\n\t</ul>\n</section><!-- CTA -->\n<section class=\"box special\">\n\t<h2>Abonnez-vous à la newsletter !</h2>\n\t<p>Recevez une alerte à chaque nouvel épisode en vous abonnant à la newsletter.</p>\n\n\t<form action=\"https://manet-formation.us1.list-manage.com/subscribe/post?u=a5f1f03992be78f7c89078736&amp;id=0e8d530899\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate>\n\t\t<div id=\"mc_embed_signup_scroll\" class=\"row gtr-50 gtr-uniform\">\n\t\t\t<div class=\"col-8 col-12-mobilep\">\n\t\t\t\t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"email\" id=\"mce-EMAIL\" placeholder=\"Courriel\" required>\n\t\t\t</div>\n\t\t\t<div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\">\n\t\t\t\t<input type=\"text\" name=\"b_a5f1f03992be78f7c89078736_0e8d530899\" tabindex=\"-1\" value=\"\">\n\t\t\t</div>\n\t\t\t<div class=\"clear col-4 col-12-mobilep\">\n\t\t\t\t<input type=\"submit\" value=\"S'inscrire\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"fit\">\n\t\t\t</div>\n\t\t</div>\n\t</form>\n</section>\n\t\t\t\t</section>\n\n\n\n\t\t\t<!-- Footer -->\n\t\t\t\t<footer id=\"footer\">\n\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/feed/podcast/sciences-et-conscience\" class=\"icon solid fa-rss\"><span class=\"label\">Rss</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-youtube\"><span class=\"label\">Youtube</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-discord\"><span class=\"label\">Discord</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-twitter\"><span class=\"label\">Twitter</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"icon brands fa-github\"><span class=\"label\">Github</span></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t<ul class=\"copyright\">\n\t\t\t\t\t\t<li><i class=\"fab fa-creative-commons\"></i> <i class=\"fab fa-creative-commons-by\"></i> <i class=\"fab fa-creative-commons-nc-eu\"></i> <i class=\"fab fa-creative-commons-sa\"></i> Sciences & Conscience 2022</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</footer>\n\n\t\t</div>\n\n\t\t<!-- Scripts -->\n\t\t\t<script src=\"/static/js/jquery.min.js\"></script>\n\t\t\t<script src=\"/static/js/jquery.dropotron.min.js\"></script> <!-- pour le submenu des partenaires -->\n\t\t\t<script src=\"/static/js/jquery.scrollex.min.js\"></script>\n\t\t\t<script src=\"/static/js/browser.min.js\"></script>\n\t\t\t<script src=\"/static/js/breakpoints.min.js\"></script>\n\t\t\t<script src=\"/static/js/util.js\"></script>\n\t\t\t<script src=\"/static/js/main.js\"></script>\n<script>\n\t// $('buttonIntro').scrollTo('#intro',500); // Scroll screen to target element\n\t$(\"#buttonIntro\").click(function() {\n    $('html, body').animate({\n        scrollTop: $(\"#intro\").offset().top\n    }, 1000);\n});\n\t$(\"#buttonAbo\").click(function() {\n    $('html, body').animate({\n        scrollTop: $(\"#cta\").offset().top\n    }, 1000);\n});\n</script>\n\t</body>\n</html>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/output/index.html b/output/index.html
+--- a/output/index.html	(revision ead13e371a466cc73265a7c2b187b8617fcc381d)
++++ b/output/index.html	(date 1655716930936)
+@@ -6,7 +6,7 @@
+ 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+ 
+ 		<!-- CSS -->
+-		<link rel="stylesheet" href="https://stephma.net/sec/static/css/main.css" />
++		<link rel="stylesheet" href="https://stephmnt.github.io/sec/static/css/main.css" />
+ 		<link rel="stylesheet" href="https://podcastfont.com/releases/202202011653/css/PodcastFont.css" integrity="sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY" crossorigin="anonymous" />
+ 
+ 	</head>
+@@ -17,10 +17,10 @@
+ 			<!-- Header -->
+ 				<header id="header">
+ 
+-					<h1><a href="https://stephma.net/sec/index.html">Sciences <span>et Conscience</span></a></h1>
++					<h1><a href="https://stephmnt.github.io/sec/index.html">Sciences <span>et Conscience</span></a></h1>
+ 					<nav id="nav">
+ 						<ul>
+-							<li><a href="https://stephma.net/sec/index.html">Accueil</a></li>
++							<li><a href="https://stephmnt.github.io/sec/index.html">Accueil</a></li>
+ 							<li>
+ 								<a href="#" class="icon solid fa-angle-down">Partenaires</a>
+ 								<ul>
+@@ -55,7 +55,7 @@
+ 		<p>Ce sont ces questions que l’émission Sciences et Conscience porte avec des scientifiques ou des philosophes, experts de leurs domaines respectifs, et auxquelles elle tente de répondre.</p>
+ 		<p><b>Cette émission est soutenue par la Fondation Charpak, l’esprit des Sciences.</b></p>
+ 	</header>
+-	<span class="image featured"><img src="https://stephma.net/sec/static/images/sciences-et-conscience.jpg" alt="" /></span>
++	<span class="image featured"><img src="https://stephmnt.github.io/sec/static/images/sciences-et-conscience.jpg" alt="" /></span>
+ </section><section class="box special features">
+ 								<h2>Nos partenaires</h2>
+ 	<div class="row">
+@@ -64,7 +64,7 @@
+ 				<section>
+ 					<header>
+ 						<h3>La Fondation Charpak</h3>
+-						<img width="100%" src="https://stephma.net/sec/static/images/logo03.jpeg" />
++						<img width="100%" src="https://stephmnt.github.io/sec/static/images/logo03.jpeg" />
+ 					</header>
+ 					<p>La « Fondation Charpak, l'esprit des sciences », abritée par la Fondation de France, souhaite favoriser le développement de l'esprit scientifique comme l’une des valeurs essentielles de notre époque.</p>
+ 					<a href="https://dons.fondationdefrance.org/CHARPAK/~mon-don" class="button special" target="_blank">En savoir plus</a>
+@@ -76,7 +76,7 @@
+ 				<section>
+ 					<header>
+ 						<h3>Cause Commune 93.1 FM</h3>
+-						<img width="100%" src="https://stephma.net/sec/static/images/logo02.png" />
++						<img width="100%" src="https://stephmnt.github.io/sec/static/images/logo02.png" />
+ 					</header>
+ 					<p>Radio associative et citoyenne, Cause Commune relaye les initiatives locales de partage des savoirs et de la culture.</p>
+ 					<a href="http://cause-commune.fm" class="button special" target="_blank">En savoir plus</a>
+@@ -88,7 +88,7 @@
+ 				<section>
+ 					<header>
+ 						<h3>Le café des sciences</h3>
+-						<img width="100%" src="https://stephma.net/sec/static/images/logo01.png" />
++						<img width="100%" src="https://stephmnt.github.io/sec/static/images/logo01.png" />
+ 					</header>
+ 					<p>Le Café des sciences est une communauté qui fédère des acteurs de la médiation scientifique sur différents médias.</p>
+ 					<a href="https://www.cafe-sciences.org" class="button alt" target="_blank">En savoir plus</a>
+@@ -98,7 +98,7 @@
+ 		</div>
+ </section><div class="row">
+ </div><section id="cta">
+-	<span class="image featured"><img src="https://stephma.net/sec/staticimages/pic03.jpg" alt="" /></span>
++	<span class="image featured"><img src="https://stephmnt.github.io/sec/staticimages/pic03.jpg" alt="" /></span>
+ 	<h3>Écoutez le podcast sur votre plateforme préférée !</h3>
+ 	<p>Le podcast <em>Sciences et Conscience</em> est disponible sur la plupart des plateformes, le site de la radio et en flux rss. Sélectionnez votre application préférée ci-dessous ou cliquez sur "en savoir plus" pour plus d'options.</p>
+ 	<ul class="icons">
+Index: output/authors.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE HTML>\n<html lang=\"fr\">\n\t<head>\n\t\t<title>Sciences & Conscience</title>\n\t\t<meta charset=\"utf-8\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\" />\n\n\t\t<!-- CSS -->\n\t\t<link rel=\"stylesheet\" href=\"https://stephma.net/sec/static/css/main.css\" />\n\t\t<link rel=\"stylesheet\" href=\"https://podcastfont.com/releases/202202011653/css/PodcastFont.css\" integrity=\"sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY\" crossorigin=\"anonymous\" />\n\n\t</head>\n\t<body class=\"landing is-preload\">\n\n\t\t<div id=\"page-wrapper\">\n\n\t\t\t<!-- Header -->\n\t\t\t\t<header id=\"header\">\n\n\t\t\t\t\t<h1><a href=\"https://stephma.net/sec/index.html\">Sciences <span>et Conscience</span></a></h1>\n\t\t\t\t\t<nav id=\"nav\">\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li><a href=\"https://stephma.net/sec/index.html\">Accueil</a></li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"icon solid fa-angle-down\">Partenaires</a>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.fondationdefrance.org/fr/fondation/fondation-charpak-lesprit-des-sciences\" target=\"_blank\">Fondation Charpak</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/\" target=\"_blank\">Cause Commune</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.cafe-sciences.org/\" target=\"_blank\">Le Café des Sciences</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">S'abonner</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</header>\n    <h1>Authors on Sciences & Conscience</h1>\n    <ul>\n    </ul>\n\n\n\n\t\t\t<!-- Footer -->\n\t\t\t\t<footer id=\"footer\">\n\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/feed/podcast/sciences-et-conscience\" class=\"icon solid fa-rss\"><span class=\"label\">Rss</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-youtube\"><span class=\"label\">Youtube</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-discord\"><span class=\"label\">Discord</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-twitter\"><span class=\"label\">Twitter</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"icon brands fa-github\"><span class=\"label\">Github</span></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t<ul class=\"copyright\">\n\t\t\t\t\t\t<li><i class=\"fab fa-creative-commons\"></i> <i class=\"fab fa-creative-commons-by\"></i> <i class=\"fab fa-creative-commons-nc-eu\"></i> <i class=\"fab fa-creative-commons-sa\"></i> Sciences & Conscience 2022</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</footer>\n\n\t\t</div>\n\n\t\t<!-- Scripts -->\n\t\t\t<script src=\"/static/js/jquery.min.js\"></script>\n\t\t\t<script src=\"/static/js/jquery.dropotron.min.js\"></script> <!-- pour le submenu des partenaires -->\n\t\t\t<script src=\"/static/js/jquery.scrollex.min.js\"></script>\n\t\t\t<script src=\"/static/js/browser.min.js\"></script>\n\t\t\t<script src=\"/static/js/breakpoints.min.js\"></script>\n\t\t\t<script src=\"/static/js/util.js\"></script>\n\t\t\t<script src=\"/static/js/main.js\"></script>\n\t</body>\n</html>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/output/authors.html b/output/authors.html
+--- a/output/authors.html	(revision ead13e371a466cc73265a7c2b187b8617fcc381d)
++++ b/output/authors.html	(date 1655716931006)
+@@ -6,7 +6,7 @@
+ 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+ 
+ 		<!-- CSS -->
+-		<link rel="stylesheet" href="https://stephma.net/sec/static/css/main.css" />
++		<link rel="stylesheet" href="https://stephmnt.github.io/sec/static/css/main.css" />
+ 		<link rel="stylesheet" href="https://podcastfont.com/releases/202202011653/css/PodcastFont.css" integrity="sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY" crossorigin="anonymous" />
+ 
+ 	</head>
+@@ -17,10 +17,10 @@
+ 			<!-- Header -->
+ 				<header id="header">
+ 
+-					<h1><a href="https://stephma.net/sec/index.html">Sciences <span>et Conscience</span></a></h1>
++					<h1><a href="https://stephmnt.github.io/sec/index.html">Sciences <span>et Conscience</span></a></h1>
+ 					<nav id="nav">
+ 						<ul>
+-							<li><a href="https://stephma.net/sec/index.html">Accueil</a></li>
++							<li><a href="https://stephmnt.github.io/sec/index.html">Accueil</a></li>
+ 							<li>
+ 								<a href="#" class="icon solid fa-angle-down">Partenaires</a>
+ 								<ul>
+Index: output/archives.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE HTML>\n<html lang=\"fr\">\n\t<head>\n\t\t<title>Sciences & Conscience</title>\n\t\t<meta charset=\"utf-8\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\" />\n\n\t\t<!-- CSS -->\n\t\t<link rel=\"stylesheet\" href=\"https://stephma.net/sec/static/css/main.css\" />\n\t\t<link rel=\"stylesheet\" href=\"https://podcastfont.com/releases/202202011653/css/PodcastFont.css\" integrity=\"sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY\" crossorigin=\"anonymous\" />\n\n\t</head>\n\t<body class=\"landing is-preload\">\n\n\t\t<div id=\"page-wrapper\">\n\n\t\t\t<!-- Header -->\n\t\t\t\t<header id=\"header\">\n\n\t\t\t\t\t<h1><a href=\"https://stephma.net/sec/index.html\">Sciences <span>et Conscience</span></a></h1>\n\t\t\t\t\t<nav id=\"nav\">\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li><a href=\"https://stephma.net/sec/index.html\">Accueil</a></li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"icon solid fa-angle-down\">Partenaires</a>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.fondationdefrance.org/fr/fondation/fondation-charpak-lesprit-des-sciences\" target=\"_blank\">Fondation Charpak</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/\" target=\"_blank\">Cause Commune</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.cafe-sciences.org/\" target=\"_blank\">Le Café des Sciences</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">S'abonner</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</header>\n<h1>Archives for Sciences & Conscience</h1>\n\n<dl>\n</dl>\n\n\n\n\t\t\t<!-- Footer -->\n\t\t\t\t<footer id=\"footer\">\n\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/feed/podcast/sciences-et-conscience\" class=\"icon solid fa-rss\"><span class=\"label\">Rss</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-youtube\"><span class=\"label\">Youtube</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-discord\"><span class=\"label\">Discord</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-twitter\"><span class=\"label\">Twitter</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"icon brands fa-github\"><span class=\"label\">Github</span></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t<ul class=\"copyright\">\n\t\t\t\t\t\t<li><i class=\"fab fa-creative-commons\"></i> <i class=\"fab fa-creative-commons-by\"></i> <i class=\"fab fa-creative-commons-nc-eu\"></i> <i class=\"fab fa-creative-commons-sa\"></i> Sciences & Conscience 2022</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</footer>\n\n\t\t</div>\n\n\t\t<!-- Scripts -->\n\t\t\t<script src=\"/static/js/jquery.min.js\"></script>\n\t\t\t<script src=\"/static/js/jquery.dropotron.min.js\"></script> <!-- pour le submenu des partenaires -->\n\t\t\t<script src=\"/static/js/jquery.scrollex.min.js\"></script>\n\t\t\t<script src=\"/static/js/browser.min.js\"></script>\n\t\t\t<script src=\"/static/js/breakpoints.min.js\"></script>\n\t\t\t<script src=\"/static/js/util.js\"></script>\n\t\t\t<script src=\"/static/js/main.js\"></script>\n\t</body>\n</html>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/output/archives.html b/output/archives.html
+--- a/output/archives.html	(revision ead13e371a466cc73265a7c2b187b8617fcc381d)
++++ b/output/archives.html	(date 1655716931017)
+@@ -6,7 +6,7 @@
+ 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+ 
+ 		<!-- CSS -->
+-		<link rel="stylesheet" href="https://stephma.net/sec/static/css/main.css" />
++		<link rel="stylesheet" href="https://stephmnt.github.io/sec/static/css/main.css" />
+ 		<link rel="stylesheet" href="https://podcastfont.com/releases/202202011653/css/PodcastFont.css" integrity="sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY" crossorigin="anonymous" />
+ 
+ 	</head>
+@@ -17,10 +17,10 @@
+ 			<!-- Header -->
+ 				<header id="header">
+ 
+-					<h1><a href="https://stephma.net/sec/index.html">Sciences <span>et Conscience</span></a></h1>
++					<h1><a href="https://stephmnt.github.io/sec/index.html">Sciences <span>et Conscience</span></a></h1>
+ 					<nav id="nav">
+ 						<ul>
+-							<li><a href="https://stephma.net/sec/index.html">Accueil</a></li>
++							<li><a href="https://stephmnt.github.io/sec/index.html">Accueil</a></li>
+ 							<li>
+ 								<a href="#" class="icon solid fa-angle-down">Partenaires</a>
+ 								<ul>
+Index: output/categories.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE HTML>\n<html lang=\"fr\">\n\t<head>\n\t\t<title>Sciences & Conscience</title>\n\t\t<meta charset=\"utf-8\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\" />\n\n\t\t<!-- CSS -->\n\t\t<link rel=\"stylesheet\" href=\"https://stephma.net/sec/static/css/main.css\" />\n\t\t<link rel=\"stylesheet\" href=\"https://podcastfont.com/releases/202202011653/css/PodcastFont.css\" integrity=\"sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY\" crossorigin=\"anonymous\" />\n\n\t</head>\n\t<body class=\"landing is-preload\">\n\n\t\t<div id=\"page-wrapper\">\n\n\t\t\t<!-- Header -->\n\t\t\t\t<header id=\"header\">\n\n\t\t\t\t\t<h1><a href=\"https://stephma.net/sec/index.html\">Sciences <span>et Conscience</span></a></h1>\n\t\t\t\t\t<nav id=\"nav\">\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li><a href=\"https://stephma.net/sec/index.html\">Accueil</a></li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"icon solid fa-angle-down\">Partenaires</a>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.fondationdefrance.org/fr/fondation/fondation-charpak-lesprit-des-sciences\" target=\"_blank\">Fondation Charpak</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/\" target=\"_blank\">Cause Commune</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.cafe-sciences.org/\" target=\"_blank\">Le Café des Sciences</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">S'abonner</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</header>\n    <h1>Categories on Sciences & Conscience</h1>\n    <ul>\n    </ul>\n\n\n\n\t\t\t<!-- Footer -->\n\t\t\t\t<footer id=\"footer\">\n\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/feed/podcast/sciences-et-conscience\" class=\"icon solid fa-rss\"><span class=\"label\">Rss</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-youtube\"><span class=\"label\">Youtube</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-discord\"><span class=\"label\">Discord</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-twitter\"><span class=\"label\">Twitter</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"icon brands fa-github\"><span class=\"label\">Github</span></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t<ul class=\"copyright\">\n\t\t\t\t\t\t<li><i class=\"fab fa-creative-commons\"></i> <i class=\"fab fa-creative-commons-by\"></i> <i class=\"fab fa-creative-commons-nc-eu\"></i> <i class=\"fab fa-creative-commons-sa\"></i> Sciences & Conscience 2022</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</footer>\n\n\t\t</div>\n\n\t\t<!-- Scripts -->\n\t\t\t<script src=\"/static/js/jquery.min.js\"></script>\n\t\t\t<script src=\"/static/js/jquery.dropotron.min.js\"></script> <!-- pour le submenu des partenaires -->\n\t\t\t<script src=\"/static/js/jquery.scrollex.min.js\"></script>\n\t\t\t<script src=\"/static/js/browser.min.js\"></script>\n\t\t\t<script src=\"/static/js/breakpoints.min.js\"></script>\n\t\t\t<script src=\"/static/js/util.js\"></script>\n\t\t\t<script src=\"/static/js/main.js\"></script>\n\t</body>\n</html>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/output/categories.html b/output/categories.html
+--- a/output/categories.html	(revision ead13e371a466cc73265a7c2b187b8617fcc381d)
++++ b/output/categories.html	(date 1655716930994)
+@@ -6,7 +6,7 @@
+ 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+ 
+ 		<!-- CSS -->
+-		<link rel="stylesheet" href="https://stephma.net/sec/static/css/main.css" />
++		<link rel="stylesheet" href="https://stephmnt.github.io/sec/static/css/main.css" />
+ 		<link rel="stylesheet" href="https://podcastfont.com/releases/202202011653/css/PodcastFont.css" integrity="sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY" crossorigin="anonymous" />
+ 
+ 	</head>
+@@ -17,10 +17,10 @@
+ 			<!-- Header -->
+ 				<header id="header">
+ 
+-					<h1><a href="https://stephma.net/sec/index.html">Sciences <span>et Conscience</span></a></h1>
++					<h1><a href="https://stephmnt.github.io/sec/index.html">Sciences <span>et Conscience</span></a></h1>
+ 					<nav id="nav">
+ 						<ul>
+-							<li><a href="https://stephma.net/sec/index.html">Accueil</a></li>
++							<li><a href="https://stephmnt.github.io/sec/index.html">Accueil</a></li>
+ 							<li>
+ 								<a href="#" class="icon solid fa-angle-down">Partenaires</a>
+ 								<ul>
+Index: output/tags.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE HTML>\n<html lang=\"fr\">\n\t<head>\n\t\t<title>Sciences & Conscience</title>\n\t\t<meta charset=\"utf-8\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\" />\n\n\t\t<!-- CSS -->\n\t\t<link rel=\"stylesheet\" href=\"https://stephma.net/sec/static/css/main.css\" />\n\t\t<link rel=\"stylesheet\" href=\"https://podcastfont.com/releases/202202011653/css/PodcastFont.css\" integrity=\"sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY\" crossorigin=\"anonymous\" />\n\n\t</head>\n\t<body class=\"landing is-preload\">\n\n\t\t<div id=\"page-wrapper\">\n\n\t\t\t<!-- Header -->\n\t\t\t\t<header id=\"header\">\n\n\t\t\t\t\t<h1><a href=\"https://stephma.net/sec/index.html\">Sciences <span>et Conscience</span></a></h1>\n\t\t\t\t\t<nav id=\"nav\">\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li><a href=\"https://stephma.net/sec/index.html\">Accueil</a></li>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<a href=\"#\" class=\"icon solid fa-angle-down\">Partenaires</a>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.fondationdefrance.org/fr/fondation/fondation-charpak-lesprit-des-sciences\" target=\"_blank\">Fondation Charpak</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/\" target=\"_blank\">Cause Commune</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"https://www.cafe-sciences.org/\" target=\"_blank\">Le Café des Sciences</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"button\">S'abonner</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</nav>\n\t\t\t\t</header>\n    <h1>Tags for Sciences & Conscience</h1>\n    <ul>\n    </ul>\n\n\n\n\t\t\t<!-- Footer -->\n\t\t\t\t<footer id=\"footer\">\n\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t<li><a href=\"https://cause-commune.fm/feed/podcast/sciences-et-conscience\" class=\"icon solid fa-rss\"><span class=\"label\">Rss</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-youtube\"><span class=\"label\">Youtube</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-discord\"><span class=\"label\">Discord</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"https://twitter.com/SConscienceCC\" class=\"icon brands fa-twitter\"><span class=\"label\">Twitter</span></a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\" class=\"icon brands fa-github\"><span class=\"label\">Github</span></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t<ul class=\"copyright\">\n\t\t\t\t\t\t<li><i class=\"fab fa-creative-commons\"></i> <i class=\"fab fa-creative-commons-by\"></i> <i class=\"fab fa-creative-commons-nc-eu\"></i> <i class=\"fab fa-creative-commons-sa\"></i> Sciences & Conscience 2022</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</footer>\n\n\t\t</div>\n\n\t\t<!-- Scripts -->\n\t\t\t<script src=\"/static/js/jquery.min.js\"></script>\n\t\t\t<script src=\"/static/js/jquery.dropotron.min.js\"></script> <!-- pour le submenu des partenaires -->\n\t\t\t<script src=\"/static/js/jquery.scrollex.min.js\"></script>\n\t\t\t<script src=\"/static/js/browser.min.js\"></script>\n\t\t\t<script src=\"/static/js/breakpoints.min.js\"></script>\n\t\t\t<script src=\"/static/js/util.js\"></script>\n\t\t\t<script src=\"/static/js/main.js\"></script>\n\t</body>\n</html>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/output/tags.html b/output/tags.html
+--- a/output/tags.html	(revision ead13e371a466cc73265a7c2b187b8617fcc381d)
++++ b/output/tags.html	(date 1655716930939)
+@@ -6,7 +6,7 @@
+ 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+ 
+ 		<!-- CSS -->
+-		<link rel="stylesheet" href="https://stephma.net/sec/static/css/main.css" />
++		<link rel="stylesheet" href="https://stephmnt.github.io/sec/static/css/main.css" />
+ 		<link rel="stylesheet" href="https://podcastfont.com/releases/202202011653/css/PodcastFont.css" integrity="sha384-/BeXPk2Z0x9w+j3AGXnySAbp7wWrndetaf6sxxPYvMtFAf8a+UMwMJWvggIY2fuY" crossorigin="anonymous" />
+ 
+ 	</head>
+@@ -17,10 +17,10 @@
+ 			<!-- Header -->
+ 				<header id="header">
+ 
+-					<h1><a href="https://stephma.net/sec/index.html">Sciences <span>et Conscience</span></a></h1>
++					<h1><a href="https://stephmnt.github.io/sec/index.html">Sciences <span>et Conscience</span></a></h1>
+ 					<nav id="nav">
+ 						<ul>
+-							<li><a href="https://stephma.net/sec/index.html">Accueil</a></li>
++							<li><a href="https://stephmnt.github.io/sec/index.html">Accueil</a></li>
+ 							<li>
+ 								<a href="#" class="icon solid fa-angle-down">Partenaires</a>
+ 								<ul>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bb5be934-3a3e-4d14-bd11-95b8ef75e821\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitSEFilterConfiguration\">\n    <file-type-list>\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\n      <filtered-out-file-type name=\"TAG\" />\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\n    </file-type-list>\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"groupByToolId\" value=\"true\" />\n    <option name=\"selectedIndex\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"20otF5ROw3aOGvNwvgNoHzJjc6B\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File\" value=\"GitIgnore\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/themes/alpha/static/css\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Git\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/themes/alpha/static/css\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/themes/alpha/static\" />\n      <recent name=\"$PROJECT_DIR$/themes/alpha\" />\n      <recent name=\"$PROJECT_DIR$/content/pages\" />\n      <recent name=\"$PROJECT_DIR$/content/saison1\" />\n      <recent name=\"$PROJECT_DIR$/themes/alpha/templates/static\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"SEC\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"bb5be934-3a3e-4d14-bd11-95b8ef75e821\" name=\"Changes\" comment=\"\" />\n      <created>1636722660945</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1636722660945</updated>\n      <workItem from=\"1636722666569\" duration=\"13781000\" />\n      <workItem from=\"1643115351065\" duration=\"2067000\" />\n      <workItem from=\"1644055863818\" duration=\"20136000\" />\n      <workItem from=\"1644329693691\" duration=\"1213000\" />\n      <workItem from=\"1644592181599\" duration=\"7398000\" />\n      <workItem from=\"1644600838707\" duration=\"174000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ead13e371a466cc73265a7c2b187b8617fcc381d)
++++ b/.idea/workspace.xml	(date 1655716927520)
+@@ -8,6 +8,11 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitSEFilterConfiguration">
+@@ -86,10 +91,22 @@
+       <workItem from="1644329693691" duration="1213000" />
+       <workItem from="1644592181599" duration="7398000" />
+       <workItem from="1644600838707" duration="174000" />
++      <workItem from="1655716633977" duration="275000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+ </project>
+\ No newline at end of file
