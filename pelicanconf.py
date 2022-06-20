@@ -1,6 +1,6 @@
 AUTHOR = 'Stéphane Manet'
 SITENAME = 'Sciences & Conscience'
-SITEURL = 'https://stephma.net/sec'
+SITEURL = 'https://stephmnt.github.io/sec'
 
 
 
